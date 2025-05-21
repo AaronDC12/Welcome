@@ -1,2 +1,2 @@
 # Welcome
-A report for practicing how to launch GitHub codespaces
+A report for practicing on how to launch GitHub codespaces
