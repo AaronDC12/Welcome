@@ -1,2 +1,3 @@
-# Welcome
-A report for practicing on how to launch GitHub codespaces
+MY FIRST REPO 
+FIRST INTERACTIONS WITH CODING LEARNINIG HTML  BASICS
+
